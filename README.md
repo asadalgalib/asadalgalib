@@ -12,11 +12,15 @@
 
 ###
 
+<p align="left">C & B Road, Kazipara, Barisal, Bangladesh<br>asadalgalib9@gmail.com</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ I'm a Junior Web Developer and a Computer Science and Engineering student with a passion for web development. I specialize in creating Dynamic and Interactive Web Projects. Continuously learning and growing. Driven by passion, I'm dedicated to mastering the art of web development.<br><br>📚 Education : I am currently pursuing a Bachelor of Science (B.Sc.) in Computer Science and Engineering at Barisal Information Technology College. I am in my first semester.<br><br>🎯 Goals :  My goal is to become a skilled web developer, mastering both front-end and back-end technologies.<br><br>🎲 Extra Details : I love traveling, and I have a strong liking for rivers and the sea. I also enjoy reading books, with Sharat Chandra being my favorite writer.</p>
+<p align="left">✨ I'm a Junior Web Developer and a Computer Science and Engineering student with a passion for web development.<br><br>📚 Education : I am currently pursuing a Bachelor of Science (B.Sc.) in Computer Science and Engineering at Barisal Information Technology College. I am in my first semester.<br><br>🎯 Goals :  My goal is to become a skilled web developer, mastering both front-end and back-end technologies.<br><br>🎲 Extra Details : I love traveling, and I have a strong liking for rivers and the sea. I also enjoy reading books, with Sharat Chandra being my favorite writer.<br><br>Currenlty -<br>I'm exploring Next js<br>I'm working on a Resturant Porject<br>I got a project for an Food Institute</p>
 
 ###
 
@@ -50,9 +54,6 @@
   </a>
   <a href="https://www.facebook.com/algalib.asad/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="asadalgalib9@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/asadalgalib9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />

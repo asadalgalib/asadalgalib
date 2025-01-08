@@ -1,4 +1,4 @@
-<h1 align="left">Hey ! 👋 , Welcome</h1>
+<h1 align="left">Hey There! 👋</h1>
 
 ###
 
@@ -8,6 +8,7 @@
 
 ###
 
+<h1 align="left">I'm Asadullah Galib</h1>
 <h2 align="left">A Junior Web Developer</h2>
 
 ###

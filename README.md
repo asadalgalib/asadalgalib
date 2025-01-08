@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I'm a Junior Web Developer and a Computer Science and Engineering student with a passion for web development.<br><br>📚 Education : I am currently pursuing a Bachelor of Science (B.Sc.) in Computer Science and Engineering at Barisal Information Technology College. I am in my first semester.<br><br>🎯 Goals :  My goal is to become a skilled web developer, mastering both front-end and back-end technologies.<br><br>🎲 Extra Details : I love traveling, and I have a strong liking for rivers and the sea. I also enjoy reading books, with Sharat Chandra being my favorite writer.</p>
+<p align="left">✨ I'm a Junior Web Developer and a Computer Science and Engineering student with a passion for web development. I specialize in creating Dynamic and Interactive Web Projects. Continuously learning and growing. Driven by passion, I'm dedicated to mastering the art of web development.<br><br>📚 Education : I am currently pursuing a Bachelor of Science (B.Sc.) in Computer Science and Engineering at Barisal Information Technology College. I am in my first semester.<br><br>🎯 Goals :  My goal is to become a skilled web developer, mastering both front-end and back-end technologies.<br><br>🎲 Extra Details : I love traveling, and I have a strong liking for rivers and the sea. I also enjoy reading books, with Sharat Chandra being my favorite writer.</p>
 
 ###
 

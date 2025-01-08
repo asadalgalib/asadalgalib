@@ -28,7 +28,7 @@
 Currenlty -<br>
 - I'm exploring Next js<br>
 - I'm working on a Resturant Porject<br>
-- I got a project for an Food Institute
+- I got a project for a Food Institute
 ###
 
 <h2 align="left">My most used tools</h2>

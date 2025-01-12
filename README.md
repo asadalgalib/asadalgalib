@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/asadalgalib/asadalgalib/blob/main/Modern%20Fashion%20Clothing%20Online%20Shop%20Showroom%20Facebook%20Cover.png"  />
+  <img height="200" src="https://github.com/asadalgalib/asadalgalib/blob/main/github.cover.jpg"  />
 </div>
 
 ###
